@@ -1,5 +1,2 @@
-# TestBash2024
-
-## Testing LLMS workshop
-
-The Demo Application can be found at the following URL: 
+# Ministry of Testing
+This repo contains content created for Ministry of Testing
